@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 개똥이의 코딩 이야기
+email: gaeco@gaeco.net
+description: > # this means to ignore newlines until "baseurl:"
+  개똥이가 코딩얘기하는 곳입니다.
+  잡다한 얘기들을 하겠습니다. 관심 가져주세요.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gaeco.net" # the base hostname & protocol for your site
+github_username:  gaeco
+
+# Build settings
+markdown: kramdown
