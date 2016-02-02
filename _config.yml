@@ -9,8 +9,7 @@
 title: 개똥이의 코딩 이야기
 email: gaeco@gaeco.net
 description: > # this means to ignore newlines until "baseurl:"
-  개똥이가 코딩얘기하는 곳입니다.
-  잡다한 얘기들을 하겠습니다. 관심 가져주세요.
+  적나라한 코딩이야기가 시작된다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gaeco.net" # the base hostname & protocol for your site
 github_username:  gaeco
