@@ -16,3 +16,5 @@ github_username:  gaeco
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
